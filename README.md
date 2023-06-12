@@ -2,9 +2,14 @@
 Monitoring Solution is out-of-the-box program to monitor your Containers and your python app latency and number of requests.
 
 ## Project Demo
-picture 1
-picture 2
-picture 3
+#### Python App Dashboard
+![Python_App_Monitoring](https://github.com/AbdassalamAhmad/Monitoring-Solution/assets/83673888/8b8b51ce-b56c-423d-9ec2-156b0d3e8f61)
+
+#### cAdvisor Dashboard
+![cadvisor_monitoring](https://github.com/AbdassalamAhmad/Monitoring-Solution/assets/83673888/d478bd16-bd35-4db5-84d8-165625973342)
+
+#### Node Exporter Dashboard
+![Node_Exporter_Monitoring](https://github.com/AbdassalamAhmad/Monitoring-Solution/assets/83673888/9c78b635-d46c-49d0-9ec8-d20b8bb2895a)
 
 ## Project Details
 - I've used Docker-Compose to build this project, which contains 6 containers.
